@@ -1,2 +1,0 @@
-# Red-Academy
-redlanding.jpg
